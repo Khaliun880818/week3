@@ -10,4 +10,5 @@ function setup(){
 function draw(){
     background(slider1.value(), slider2.value(), slider3.value())
 
+    
 }
